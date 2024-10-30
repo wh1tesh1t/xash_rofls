@@ -1,0 +1,5 @@
+while true 
+do 
+  ./xashds +game cstrike -dev 1 +maxplayers 30 +port 27015 +public 1
+  sleep 1
+done
